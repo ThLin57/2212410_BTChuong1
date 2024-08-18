@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\2212410_WDF52\bin\Debug\2212410_WDF52.exe.config
+C:\Users\LUAN\source\repos\2212410_WDF52\bin\Debug\2212410_WDF52.exe
+C:\Users\LUAN\source\repos\2212410_WDF52\bin\Debug\2212410_WDF52.pdb
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\2212410_WDF52.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\_2212410_WDF52.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\2212410_WDF52.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\2212410_WDF52.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\2212410_WDF52.exe
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\2212410_WDF52.pdb
+C:\Users\LUAN\source\repos\2212410_WDF52\obj\Debug\_2212410_WDF52.frmListBox.resources

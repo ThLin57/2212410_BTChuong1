@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\2212410_WDF56\bin\Debug\2212410_WDF56.exe.config
+C:\Users\LUAN\source\repos\2212410_WDF56\bin\Debug\2212410_WDF56.exe
+C:\Users\LUAN\source\repos\2212410_WDF56\bin\Debug\2212410_WDF56.pdb
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\2212410_WDF56.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\_2212410_WDF56.Form1.resources
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\_2212410_WDF56.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\2212410_WDF56.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\2212410_WDF56.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\2212410_WDF56.exe
+C:\Users\LUAN\source\repos\2212410_WDF56\obj\Debug\2212410_WDF56.pdb
